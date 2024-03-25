@@ -1,0 +1,15 @@
+openlca2bw==1.0.0
+brightway2==2.4.4
+bw2analyzer<0.10.99
+bw2calc==1.8.1
+bw2data<3.99
+bw2io<0.8.9
+bw2parameters==0.6.6
+olca-ipc
+olca-schema==0.0.12
+stats_arrays
+urllib3
+pyprind
+pandas
+requests
+future
